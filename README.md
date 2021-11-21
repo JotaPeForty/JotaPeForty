@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Juan Pablo.</h1>
-<h3 align="center">Desde el año 1997 </h3>
+<h3 align="center"></h3>
 
 <!--
 **JotaPeForty/JotaPeForty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
