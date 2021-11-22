@@ -52,7 +52,7 @@ Lenguajes y herramientas
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="./img/icons/redux.png" height="48" alt="Redux" />
+        <img src="./img/icons/Redux.png" height="48" alt="Redux" />
       </a>
       <br>Redux
   </tr>
