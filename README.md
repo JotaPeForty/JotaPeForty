@@ -11,7 +11,7 @@
 <table align="center">
 <tr>
 <td align="center" width="100" height="100">
-<a href="Mailto: juanp.benavente@gmail.com" target="_blank"><img align="center" src="./img/icons/mail.png" alt="Mailto: juanp.benavente@gmail.com" width="40" /></a></td>
+<a href="Mailto: juanp.benavente@gmail.com" target="_blank"><img align="center" src="./img/icons/gmail.png" alt="Mailto: juanp.benavente@gmail.com" width="40" /></a></td>
 <td align="center" width="100" height="100">
 <a href="https://www.linkedin.com/in/juan-pablo-benavente-dev/" target="_blank"><img align="center" src="./img/icons/linkedin.png" alt="https://www.linkedin.com/in/juan-pablo-benavente-dev/" width="40" /></a></td>
 <td align="center" width="100" height="100">
