@@ -11,7 +11,7 @@
 <table align="center">
 <tr>
 <td align="center" width="100" height="100">
-<a href="Mailto: juanp.benavente@gmail.com" target="_blank"><img align="center" src="./img/icons/gmail.png" alt="Mailto: juanp.benavente@gmail.com" width="40" /></a></td>
+<a href="mailto:juanp.benavente@gmail.com" target="_blank"><img align="center" src="./img/icons/mail.png" alt="mailto:juanp.benavente@gmail.com/" width="40" /></a></td>
 <td align="center" width="100" height="100">
 <a href="https://www.linkedin.com/in/juan-pablo-benavente-dev/" target="_blank"><img align="center" src="./img/icons/linkedin.png" alt="https://www.linkedin.com/in/juan-pablo-benavente-dev/" width="40" /></a></td>
 <td align="center" width="100" height="100">
@@ -29,62 +29,61 @@ Lenguajes y herramientas
 <table align="center">
   <tr>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://html5.org/">
         <img src="./img/icons/HTML5.svg" height="48" alt="HTML5" />
       </a>
       <br>HTML 5
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://developer.mozilla.org/es/docs/Web/CSS">
         <img src="./img/icons/CSS3.svg" height="48" alt="CSS" />
       </a>
       <br>CSS 3
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="./img/icons/JavaScript.svg" height="48" alt="Javascript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://reactjs.org/">
         <img src="./img/icons/reactjs.svg" height="48" alt="ReactJS" />
       </a>
       <br>ReactJS
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://redux.js.org/">
         <img src="./img/icons/Redux.png" height="48" alt="Redux" />
       </a>
       <br>Redux
-  </tr>
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://nodejs.org/en/">
         <img src="./img/icons/Node.js.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="100" height="100"> 
-      <a href="#" >
+      <a href="https://expressjs.com/" >
         <img src="./img/icons/expressjs.svg" width="48" height="48" alt="ExpressJS" />
       </a>
       <br>ExpressJS
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://www.postgresql.org/">
         <img src="./img/icons/psql.png" width="48" height="48" alt="Postgresql" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://sequelize.org/">
         <img src="./img/icons/sequelize.png" width="48" height="48" alt="sequelize" />
       </a>
       <br>Sequelize
     </td>
     <td align="center" width="100" height="100">
-      <a href="#">
+      <a href="https://git-scm.com/">
         <img src="./img/icons/git.png" width="48" height="48" alt="git" />
       </a>
       <br>Git
