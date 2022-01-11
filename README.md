@@ -20,6 +20,7 @@
 <a href="https://torre.co/es/juanpbenavente" target="_blank"><img align="center" src="./img/icons/torre.png" alt="https://torre.co/es/juanpbenavente"  width="40" /></a></td>
 <td align="center" width="100" height="100">
 <a href="https://api.whatsapp.com/send?phone=3515946885" target="_blank"><img align="center" src="./img/icons/whatsapp.png" alt="https://api.whatsapp.com/send?phone=3515946885"  width="70" /></a></td>
+</tr>
 </table>
 <hr>
 
