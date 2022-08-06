@@ -1,14 +1,12 @@
 <h1 align="center">Hola! Soy Juan Pablo.</h1>
 <h3 align="center">👉Hola, mi nombre es Juan Pablo, soy Desarrollador Full Stack y Fotógrafo. Después de pasar 14 años en una empresa, de los cuales los últimos 9 años fueron como supervisor, el cual me dio la experiencia de transformar un sector de la empresa y formar un equipo de trabajo excelente como así también el desafío diario de la resolución de problemas. 
 Comencé aprendiendo lo básico de manejo de PC, luego reparación de pc y redes, ahí descubrí el diseño y aprendí de forma autodidacta algunas herramientas, hasta mi primer curso de diseño web (2009). Después curse la carrera de Técnico Superior en Fotografía, que me dio más herramientas y experiencia en diseño. 
-Es momento de poner mi experiencia junto a mis conocimientos a disposición de quien la requiera y comenzar una nueva etapa, logrando reunir todo lo aprendido con el fin de poder crecer como desarrollador, por eso estoy en búsqueda de ese grupo de trabajo que me brinde la oportunidad de demostrarle mis aptitudes y predisposición para llevar a cabo los objetivos propuestos
+Hoy ya teniendo los siguientes conocimientos JavaScript, React, Redux, NodeJs, Express, PostgreSQL y aún más lenguajes por seguir aprendiendo, es momento de poner mi experiencia junto a mis conocimientos a disposición de quien la requiera y comenzar una nueva etapa, logrando reunir todo lo aprendido con el fin de poder crecer como desarrollador, por eso estoy en búsqueda de ese grupo de trabajo que me brinde la oportunidad de demostrarle mis aptitudes y predisposición para llevar a cabo los objetivos propuestos
 </h3>
 
 <hr>
 
 - 🔭Actualmente estoy desempleado
-
-- 🌱 Actualmente estoy en la ultima etapa en <a href="https://www.soyhenry.com/">Soy Henry</a>
 
 - 📫 Cómo contactarme:
 <table align="center">
@@ -68,6 +66,16 @@ Lenguajes y herramientas
       </a>
       <br>NodeJS
     </td>
+    <td align="center" width="100" height="100">
+      <a href="https://sass-lang.com/">
+        <img src="./img/icons/sass.png" width="58" height="48" alt="NodeJS" />
+      </a>
+      <br>Sass
+    </td>
+    </tr>
+    </table>
+    <table align="center">
+    <tr>
     <td align="center" width="100" height="100"> 
       <a href="https://expressjs.com/" >
         <img src="./img/icons/expressjs.svg" width="48" height="48" alt="ExpressJS" />
@@ -91,6 +99,24 @@ Lenguajes y herramientas
         <img src="./img/icons/git.png" width="48" height="48" alt="git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="https://www.salesforce.com/">
+        <img src="./img/icons/salesforce-com-logo.png" width="68" height="48" alt="git" />
+      </a>
+      <br>Salesforce
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="https://nextjs.org/">
+        <img src="./img/icons/next-js.png" width="68" height="48" alt="git" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="https://styled-components.com/">
+        <img src="./img/icons/styled components.png" width="68" height="48" alt="git" />
+      </a>
+      <br>Styled Components
     </td>
   </tr>
 </table>
