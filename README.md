@@ -1,5 +1,5 @@
 <h1 align="center">Algo sobre mi.</h1>
-<h3 align="center">👉Mi nombre es Juan Pablo, siempre curioso y con facilidad para aprender, gracias a eso he adquirido muchos conocimientos y con aun más por descubrir! Siendo un gran entusiasta de la tecnología desde el primer curso que realice.
+<h3 align="center">👉Hola, mi nombre es Juan Pablo, siempre curioso y con facilidad para aprender, gracias a eso he adquirido muchos conocimientos y con aun más por descubrir! Siendo un gran entusiasta de la tecnología desde el primer curso que realice.
 <br>
 Me orienté hacia el diseño y desarrollo web. Comencé en 1997 aprendiendo lo básico de manejo de PC, luego reparación de pc (2003)y redes, ahí descubrí el diseño y aprendí de forma autodidacta algunas herramientas, hasta mi primer curso de diseño web (2009). En el 2005 curse el ingreso a ingeniería en Computación, no pudiendo ingresar por temas de fuerza mayor.<br>
 Luego en el 2013 curse la carrera de Técnico Superior en Fotografía, que me dio más herramientas y experiencia en diseño.
