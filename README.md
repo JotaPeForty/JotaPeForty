@@ -1,7 +1,11 @@
 <h1 align="center">Hola! Soy Juan Pablo.</h1>
-<h3 align="center">👉Hola, mi nombre es Juan Pablo, soy Desarrollador Full Stack y Fotógrafo. Después de pasar 14 años en una empresa, de los cuales los últimos 9 años fueron como supervisor, el cual me dio la experiencia de transformar un sector de la empresa y formar un equipo de trabajo excelente como así también el desafío diario de la resolución de problemas. 
-Comencé aprendiendo lo básico de manejo de PC, luego reparación de pc y redes, ahí descubrí el diseño y aprendí de forma autodidacta algunas herramientas, hasta mi primer curso de diseño web (2009). Después curse la carrera de Técnico Superior en Fotografía, que me dio más herramientas y experiencia en diseño. 
-Hoy ya teniendo los siguientes conocimientos JavaScript, React, Redux, NodeJs, Express, PostgreSQL y aún más lenguajes por seguir aprendiendo, es momento de poner mi experiencia junto a mis conocimientos a disposición de quien la requiera y comenzar una nueva etapa, logrando reunir todo lo aprendido con el fin de poder crecer como desarrollador, por eso estoy en búsqueda de ese grupo de trabajo que me brinde la oportunidad de demostrarle mis aptitudes y predisposición para llevar a cabo los objetivos propuestos
+<h3 align="center">👉Hola, mi nombre es Juan Pablo, siempre curioso y con facilidad para aprender, gracias a eso he adquirido muchos conocimientos y con aun más por descubrir! Siendo un gran entusiasta de la tecnología desde el primer curso que realice.
+<br>
+Me orienté hacia el diseño y desarrollo web. Comencé en 1997 aprendiendo lo básico de manejo de PC, luego reparación de pc (2003)y redes, ahí descubrí el diseño y aprendí de forma autodidacta algunas herramientas, hasta mi primer curso de diseño web (2009). En el 2005 curse el ingreso a ingeniería en Computación, no pudiendo ingresar por temas de fuerza mayor.<br>
+Luego en el 2013 curse la carrera de Técnico Superior en Fotografía, que me dio más herramientas y experiencia en diseño.
+<br>
+En mis años como supervisor en una empresa, me dio la experiencia de transformar un sector de esta y formar un equipo de trabajo excelente como así también aprender y hacer crecer mis soft skills, (Adaptabilidad, Resolución de problemas, Creatividad, Liderazgo, Trabajo en equipo).
+Hoy ya terminado (2021) un el bootcamp de soyhenry, y retomando mi camino inicial le sumo los siguientes conocimientos JavaScript, React, Redux, NodeJs, Express, PostgreSQL y aún más lenguajes por seguir aprendiendo, es momento de poner mi experiencia junto a mis conocimientos a disposición de quien la requiera y comenzar una nueva etapa, logrando reunir todo lo aprendido con el fin de poder crecer como desarrollador, por eso estoy en búsqueda de ese grupo de trabajo que me brinde la oportunidad de demostrarle mis aptitudes y predisposición para llevar a cabo los objetivos propuestos.
 </h3>
 
 <hr>
